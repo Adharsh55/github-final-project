@@ -1,4 +1,14 @@
-# github-final-project
+Simple Interest
+=
+𝑃
+×
+𝑅
+×
+𝑇
+100
+Simple Interest=
+100
+P×R×T
 
 Simple Interest Calculator
 
@@ -12,18 +22,6 @@ Rate of interest (R)
 Time period (T)
 
 The calculator then applies the formula:
-
-Simple Interest
-=
-𝑃
-×
-𝑅
-×
-𝑇
-100
-Simple Interest=
-100
-P×R×T
 	​
 
 
