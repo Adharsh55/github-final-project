@@ -1,4 +1,4 @@
-# coursera-adharsh
+# github-final-project
 
 Simple Interest Calculator
 
